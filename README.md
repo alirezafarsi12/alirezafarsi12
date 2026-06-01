@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a new website developer. 🚀<br>I'm interested in books. 📚<br>I'm in love with the world of hacking and security. 🛡️<br>Linux is my love. 🐧<br>patruo kr muerta ✨
+I'm a new website developer. 🚀<br>I'm interested in books. 📚<br>I'm in love with the world of hacking and security. 🛡️<br>Linux is my love. 🐧<br>Patria o muerte✨
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white)](https://t.me/Alirezafars3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alirezafarsi_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alirezanosouhian@gmail.com) 
